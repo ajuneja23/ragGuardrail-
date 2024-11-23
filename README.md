@@ -1,1 +1,1 @@
-Using rag as a redteaming method, came to me in a dream?
+tinkering to see if rag is a valid guardrail, answer appeared to be no
